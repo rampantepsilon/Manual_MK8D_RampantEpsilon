@@ -1,4 +1,4 @@
-# Manual_SMOFestival
+# Manual_MK8D_RampantEpsilon
 
 For use with Manual Archipelago Client Only. (https://discord.gg/T5bcsVHByx)
 
