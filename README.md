@@ -13,7 +13,7 @@ Manual_MK8D_RampantEpsilon:
   progression_balancing: 50
   accessibility: items
 
-game: Manual_SMOFestival
+game: Manual_MK8D_RampantEpsilon
 name: RampantEpsilon
 ```
 
