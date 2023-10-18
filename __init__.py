@@ -247,6 +247,8 @@ class ManualWorld(World):
             "game": self.game,
             'player_name': self.multiworld.get_player_name(self.player),
             'player_id': self.player,
+            'location_table': self.location_table,
+            'item_table': self.item_table
         }
 
     def generate_output(self, output_directory: str):
