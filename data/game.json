@@ -1,0 +1,38 @@
+{
+	"game": "MK8D",
+	"creator": "RampantEpsilon",
+	"filler_item_name": "Coins",
+	"starting_items": [
+		{
+			"item_categories": [
+				"Characters"
+			],
+			"random": 1
+		},
+		{
+			"item_categories": [
+				"Vehicles"
+			],
+			"random": 1
+		},
+		{
+			"item_categories": [
+				"Wheels"
+			],
+			"random": 1
+		},
+		{
+			"item_categories": [
+				"Glider"
+			],
+			"random": 1
+		},
+		{
+			"item_categories": [
+				"Cup Access"
+			],
+			"random": 1
+		}
+	],
+	"background-image": "https://media.gamestop.com/i/gamestop/20003274/Mario-Kart-8-Deluxe-and-Booster-Course-Pass-Bundle---Nintendo-Switch"
+}

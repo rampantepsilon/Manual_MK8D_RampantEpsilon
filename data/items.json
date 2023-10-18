@@ -1,0 +1,1202 @@
+[
+    {
+        "count": 1,
+        "name": "Rain",
+        "category": [
+            "Victory"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "bow",
+        "category": [
+            "Victory"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Road",
+        "category": [
+            "Victory"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Racer",
+        "category": [
+            "Victory"
+        ],
+        "progression": true
+    },
+    {
+        "count": 1,
+        "name": "Mushroom Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Flower Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Star Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Special Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Egg Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Crossing Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Shell Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Banana Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Leaf Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Lightning Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Triforce Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Bell Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Golden Dash Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Lucky Cat Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Turnip Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Propeller Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Rock Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Moon Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Fruit Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Boomerang Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Feather Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Cherry Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Mario",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Luigi",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Peach",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Daisy",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Rosalina",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Tanooki Mario",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Cat Peach",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Birdo",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Yoshi",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Toad",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Koopa Troopa",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Shy Guy",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Lakitu",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Toadette",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "King Boo",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Petey Piranha",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Baby Mario",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Baby Luigi",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Baby Peach",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Baby Daisy",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Baby Rosalina",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Metal Mario",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Pink Gold Peach",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Wiggler",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Wario",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Waluigi",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Donkey Kong",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Bowser",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Dry Bones",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Bowser Jr.",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Dry Bowser",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Kamek",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Lemmy",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Larry",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Wendy",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Ludwig",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Iggy",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Roy",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Morton",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Inkling Girl",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Inkling Boy",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Link",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Villager (Male)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Villager (Female)",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Isabelle",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Mii",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Standard Kart",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Pipe Frame",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Mach 8",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Steel Driver",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Cat Cruiser",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Circuit Special",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Tri-Speeder",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Badwagon",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Prancer",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Biddybuggy",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Landship",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Sneeker",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Sports Coupe",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Gold Standard",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "GLA",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "W 25 Silver Arrow",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "300 SL Roadster",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Blue Falcon",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Tanooki Kart",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "B Dasher",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Streetle",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "P-Wing",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Koopa Clown",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Standard Bike",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "The Duke",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Flame Rider",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Varmint",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Mr. Scooty",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Master Cycle Zero",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "City Tripper",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Comet",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Sport Bike",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Jet Bike",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Yoshi Bike",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Master Cycle",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Standard ATV",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Wild Wiggler",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Teddy Buggy",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Bone Rattler",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Splat Buggy",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Inkstriker",
+        "category": [
+            "Vehicles"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Standard Wheels",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Monster",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Roller",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Slim",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Slick",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Metal",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Button",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Off-Road",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Sponge",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Wood",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Cushion",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Blue Standard",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hot Monster",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Azure Roller",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Crimson Slim",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Cyber Slick",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Retro Off-Road",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Gold Tires",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "GLA Tires",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Triforce Tires",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Ancient Tires",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Leaf Tires",
+        "category": [
+            "Wheels"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Super Glider",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Cloud Glider",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Wario Wing",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Waddle Wing",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Peach Parasol",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Parachute",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Parafoil",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Flower Glider",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Bowser Kite",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Plane Glider",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "MKTV Parafoil",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Gold Glider",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Hylian Kite",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Paraglider",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Paper Glider",
+        "category": [
+            "Glider"
+        ],
+        "useful": true
+    }
+]
