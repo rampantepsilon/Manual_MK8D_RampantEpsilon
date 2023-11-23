@@ -336,7 +336,7 @@
         ],
         "requires": "(|Special Cup Pass|)",
         "place_item": [
-            "Rain"
+            "Rainbow Road Master"
         ]
     },
     {
@@ -563,7 +563,7 @@
         ],
         "requires": "(|Lightning Cup Pass|)",
         "place_item": [
-            "bow"
+            "Rainbow Road Master"
         ]
     },
     {
@@ -706,7 +706,7 @@
         ],
         "requires": "(|Triforce Cup Pass|)",
         "place_item": [
-            "Road"
+            "Rainbow Road Master"
         ]
     },
     {
@@ -1129,7 +1129,7 @@
         ],
         "requires": "(|Moon Cup Pass|)",
         "place_item": [
-            "Racer"
+            "Rainbow Road Master"
         ]
     },
     {
@@ -1364,18 +1364,133 @@
         "requires": "(|Cherry Cup Pass|)"
     },
     {
-        "name": "Rainbow Road Racer",
+        "name": "Rome Avanti (Tour) - Reward",
         "category": [
-            "0 - Victory"
+            "Acorn Cup"
         ],
-        "requires": "|@Victory:4|"
+        "requires": "(|Acorn Cup Pass|)"
     },
     {
-        "name": "Rainbow Road Racer - Victory",
+        "name": "Rome Avanti (Tour) - Bonus",
+        "category": [
+            "Acorn Cup"
+        ],
+        "requires": "(|Acorn Cup Pass|)"
+    },
+    {
+        "name": "DK Mountain (GCN) - Reward",
+        "category": [
+            "Acorn Cup"
+        ],
+        "requires": "(|Acorn Cup Pass|)"
+    },
+    {
+        "name": "DK Mountain (GCN) - Bonus",
+        "category": [
+            "Acorn Cup"
+        ],
+        "requires": "(|Acorn Cup Pass|)"
+    },
+    {
+        "name": "Daisy Circuit (Wii) - Reward",
+        "category": [
+            "Acorn Cup"
+        ],
+        "requires": "(|Acorn Cup Pass|)"
+    },
+    {
+        "name": "Daisy Circuit (Wii) - Bonus",
+        "category": [
+            "Acorn Cup"
+        ],
+        "requires": "(|Acorn Cup Pass|)"
+    },
+    {
+        "name": "Piranha Plant Cove - Reward",
+        "category": [
+            "Acorn Cup"
+        ],
+        "requires": "(|Acorn Cup Pass|)"
+    },
+    {
+        "name": "Piranha Plant Cove - Bonus",
+        "category": [
+            "Acorn Cup"
+        ],
+        "requires": "(|Acorn Cup Pass|)"
+    },
+    {
+        "name": "Madrid Drive (Tour) - Reward",
+        "category": [
+            "Spiny Cup"
+        ],
+        "requires": "(|Spiny Cup Pass|)"
+    },
+    {
+        "name": "Madrid Drive (Tour) - Bonus",
+        "category": [
+            "Spiny Cup"
+        ],
+        "requires": "(|Spiny Cup Pass|)"
+    },
+    {
+        "name": "Rosalina's Ice World (3DS) - Reward",
+        "category": [
+            "Spiny Cup"
+        ],
+        "requires": "(|Spiny Cup Pass|)"
+    },
+    {
+        "name": "Rosalina's Ice World (3DS) - Bonus",
+        "category": [
+            "Spiny Cup"
+        ],
+        "requires": "(|Spiny Cup Pass|)"
+    },
+    {
+        "name": "Bowser Castle 3 (SNES) - Reward",
+        "category": [
+            "Spiny Cup"
+        ],
+        "requires": "(|Spiny Cup Pass|)"
+    },
+    {
+        "name": "Bowser Castle 3 (SNES) - Bonus",
+        "category": [
+            "Spiny Cup"
+        ],
+        "requires": "(|Spiny Cup Pass|)"
+    },
+    {
+        "name": "Rainbow Road (Wii) - Reward",
+        "category": [
+            "Spiny Cup"
+        ],
+        "requires": "(|Spiny Cup Pass|)",
+        "place_item": [
+            "Rainbow Road Master"
+        ]
+    },
+    {
+        "name": "Rainbow Road (Wii) - Bonus",
+        "category": [
+            "Spiny Cup"
+        ],
+        "requires": "(|Spiny Cup Pass|)"
+    },
+    {
+        "name": "Rainbow Road Master",
         "category": [
             "0 - Victory"
         ],
-        "requires": "|@Victory:4|",
+        "requires": "|@Victory:5|"
+    },
+    {
+        "name": "Rainbow Road Master - Victory",
+        "category": [
+            "0 - Victory"
+        ],
+        "requires": "|@Victory:5|",
         "victory": true
     }
 ]
