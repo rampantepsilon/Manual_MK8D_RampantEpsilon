@@ -3,8 +3,8 @@ import os
 import random
 import json
 
-from .Data import item_table, progressive_item_table, location_table
-from .Game import game_name, filler_item_name, starting_items, background_image
+from .Data import item_table, progressive_item_table, location_table, region_table
+from .Game import game_name, filler_item_name, starting_items
 from .Locations import location_id_to_name, location_name_to_id, location_name_to_location
 from .Items import item_id_to_name, item_name_to_id, item_name_to_item, advancement_item_names
 
@@ -62,7 +62,6 @@ class ManualWorld(World):
     location_id_to_name = location_id_to_name
     location_name_to_id = location_name_to_id
     location_name_to_location = location_name_to_location
-    background_image = background_image
 
     def pre_fill(self):
         before_pre_fill(self, self.multiworld, self.player)
@@ -248,9 +247,11 @@ class ManualWorld(World):
             "game": self.game,
             'player_name': self.multiworld.get_player_name(self.player),
             'player_id': self.player,
-            'background-image': self.background_image,
-            'location_table': self.location_table,
-            'item_table': self.item_table
+            'items': self.item_name_to_item,
+            'locations': self.location_name_to_location,
+            # todo: extract connections out of mutliworld.get_regions() instead, in case hooks have modified the regions.
+            'regions': region_table,
+
         }
 
     def generate_output(self, output_directory: str):
@@ -258,3 +259,4 @@ class ManualWorld(World):
         filename = f"{self.multiworld.get_out_file_name_base(self.player)}.apmanual"
         with open(os.path.join(output_directory, filename), 'wb') as f:
             f.write(b64encode(bytes(json.dumps(data), 'utf-8')))
+
