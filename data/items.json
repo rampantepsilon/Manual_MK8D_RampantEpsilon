@@ -1,31 +1,7 @@
 [
     {
-        "count": 1,
-        "name": "Rain",
-        "category": [
-            "Victory"
-        ],
-        "progression": true
-    },
-    {
-        "count": 1,
-        "name": "bow",
-        "category": [
-            "Victory"
-        ],
-        "progression": true
-    },
-    {
-        "count": 1,
-        "name": "Road",
-        "category": [
-            "Victory"
-        ],
-        "progression": true
-    },
-    {
-        "count": 1,
-        "name": "Racer",
+        "count": 5,
+        "name": "Gold Trophy",
         "category": [
             "Victory"
         ],
@@ -202,6 +178,22 @@
     {
         "count": 1,
         "name": "Cherry Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Acorn Cup Pass",
+        "category": [
+            "Cup Access"
+        ],
+        "progression_skip_balancing": true
+    },
+    {
+        "count": 1,
+        "name": "Spiny Cup Pass",
         "category": [
             "Cup Access"
         ],
