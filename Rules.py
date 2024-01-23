@@ -105,7 +105,6 @@ def set_rules(base: World, world: MultiWorld, player: int):
                     item_count = base.item_name_to_item[item_name]['count'] / 2
                 else:
                     item_count = int(item_count)
-
                 total = state.count(item_name, player)
 
                 if total >= item_count:
