@@ -10,11 +10,5 @@
         "yaml_option": [
             "include_DLC"
         ]
-    },
-    "Base Game": {
-        "hidden": true
-    },
-    "DLC": {
-        "hidden": true
     }
 }
