@@ -1,0 +1,14 @@
+{
+    "Base Game": {
+        "hidden": true,
+        "yaml_option": [
+            "include_base_game"
+        ]
+    },
+    "DLC": {
+        "hidden": true,
+        "yaml_option": [
+            "include_DLC"
+        ]
+    }
+}

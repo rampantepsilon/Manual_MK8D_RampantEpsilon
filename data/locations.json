@@ -122,1364 +122,1556 @@
     {
         "name": "Mario Kart Stadium - Reward",
         "category": [
-            "Mushroom Cup"
+            "Mushroom Cup",
+            "Base Game"
         ],
         "requires": "(|Mushroom Cup Pass|)"
     },
     {
         "name": "Mario Kart Stadium - Bonus",
         "category": [
-            "Mushroom Cup"
+            "Mushroom Cup",
+            "Base Game"
         ],
         "requires": "(|Mushroom Cup Pass|)"
     },
     {
         "name": "Water Park - Reward",
         "category": [
-            "Mushroom Cup"
+            "Mushroom Cup",
+            "Base Game"
         ],
         "requires": "(|Mushroom Cup Pass|)"
     },
     {
         "name": "Water Park - Bonus",
         "category": [
-            "Mushroom Cup"
+            "Mushroom Cup",
+            "Base Game"
         ],
         "requires": "(|Mushroom Cup Pass|)"
     },
     {
         "name": "Sweet Sweet Canyon - Reward",
         "category": [
-            "Mushroom Cup"
+            "Mushroom Cup",
+            "Base Game"
         ],
         "requires": "(|Mushroom Cup Pass|)"
     },
     {
         "name": "Sweet Sweet Canyon - Bonus",
         "category": [
-            "Mushroom Cup"
+            "Mushroom Cup",
+            "Base Game"
         ],
         "requires": "(|Mushroom Cup Pass|)"
     },
     {
         "name": "Thwomp Ruins - Reward",
         "category": [
-            "Mushroom Cup"
+            "Mushroom Cup",
+            "Base Game"
         ],
         "requires": "(|Mushroom Cup Pass|)"
     },
     {
         "name": "Thwomp Ruins - Bonus",
         "category": [
-            "Mushroom Cup"
+            "Mushroom Cup",
+            "Base Game"
         ],
         "requires": "(|Mushroom Cup Pass|)"
     },
     {
         "name": "Mario Circuit - Reward",
         "category": [
-            "Flower Cup"
+            "Flower Cup",
+            "Base Game"
         ],
         "requires": "(|Flower Cup Pass|)"
     },
     {
         "name": "Mario Circuit - Bonus",
         "category": [
-            "Flower Cup"
+            "Flower Cup",
+            "Base Game"
         ],
         "requires": "(|Flower Cup Pass|)"
     },
     {
         "name": "Toad Harbor - Reward",
         "category": [
-            "Flower Cup"
+            "Flower Cup",
+            "Base Game"
         ],
         "requires": "(|Flower Cup Pass|)"
     },
     {
         "name": "Toad Harbor - Bonus",
         "category": [
-            "Flower Cup"
+            "Flower Cup",
+            "Base Game"
         ],
         "requires": "(|Flower Cup Pass|)"
     },
     {
         "name": "Twisted Mansion - Reward",
         "category": [
-            "Flower Cup"
+            "Flower Cup",
+            "Base Game"
         ],
         "requires": "(|Flower Cup Pass|)"
     },
     {
         "name": "Twisted Mansion - Bonus",
         "category": [
-            "Flower Cup"
+            "Flower Cup",
+            "Base Game"
         ],
         "requires": "(|Flower Cup Pass|)"
     },
     {
         "name": "Shy Guy Falls - Reward",
         "category": [
-            "Flower Cup"
+            "Flower Cup",
+            "Base Game"
         ],
         "requires": "(|Flower Cup Pass|)"
     },
     {
         "name": "Shy Guy Falls - Bonus",
         "category": [
-            "Flower Cup"
+            "Flower Cup",
+            "Base Game"
         ],
         "requires": "(|Flower Cup Pass|)"
     },
     {
         "name": "Sunshine Airport - Reward",
         "category": [
-            "Star Cup"
+            "Star Cup",
+            "Base Game"
         ],
         "requires": "(|Star Cup Pass|)"
     },
     {
         "name": "Sunshine Airport - Bonus",
         "category": [
-            "Star Cup"
+            "Star Cup",
+            "Base Game"
         ],
         "requires": "(|Star Cup Pass|)"
     },
     {
         "name": "Dolphin Shoals - Reward",
         "category": [
-            "Star Cup"
+            "Star Cup",
+            "Base Game"
         ],
         "requires": "(|Star Cup Pass|)"
     },
     {
         "name": "Dolphin Shoals - Bonus",
         "category": [
-            "Star Cup"
+            "Star Cup",
+            "Base Game"
         ],
         "requires": "(|Star Cup Pass|)"
     },
     {
         "name": "Electrodome - Reward",
         "category": [
-            "Star Cup"
+            "Star Cup",
+            "Base Game"
         ],
         "requires": "(|Star Cup Pass|)"
     },
     {
         "name": "Electrodome - Bonus",
         "category": [
-            "Star Cup"
+            "Star Cup",
+            "Base Game"
         ],
         "requires": "(|Star Cup Pass|)"
     },
     {
         "name": "Mount Wario - Reward",
         "category": [
-            "Star Cup"
+            "Star Cup",
+            "Base Game"
         ],
         "requires": "(|Star Cup Pass|)"
     },
     {
         "name": "Mount Wario - Bonus",
         "category": [
-            "Star Cup"
+            "Star Cup",
+            "Base Game"
         ],
         "requires": "(|Star Cup Pass|)"
     },
     {
         "name": "Cloudtop Cruise - Reward",
         "category": [
-            "Special Cup"
+            "Special Cup",
+            "Base Game"
         ],
         "requires": "(|Special Cup Pass|)"
     },
     {
         "name": "Cloudtop Cruise - Bonus",
         "category": [
-            "Special Cup"
+            "Special Cup",
+            "Base Game"
         ],
         "requires": "(|Special Cup Pass|)"
     },
     {
         "name": "Bone-Dry Dunes - Reward",
         "category": [
-            "Special Cup"
+            "Special Cup",
+            "Base Game"
         ],
         "requires": "(|Special Cup Pass|)"
     },
     {
         "name": "Bone-Dry Dunes - Bonus",
         "category": [
-            "Special Cup"
+            "Special Cup",
+            "Base Game"
         ],
         "requires": "(|Special Cup Pass|)"
     },
     {
         "name": "Bowser's Castle - Reward",
         "category": [
-            "Special Cup"
+            "Special Cup",
+            "Base Game"
         ],
         "requires": "(|Special Cup Pass|)"
     },
     {
         "name": "Bowser's Castle - Bonus",
         "category": [
-            "Special Cup"
+            "Special Cup",
+            "Base Game"
         ],
         "requires": "(|Special Cup Pass|)"
     },
     {
         "name": "Rainbow Road - Reward",
         "category": [
-            "Special Cup"
+            "Special Cup",
+            "Base Game"
         ],
         "requires": "(|Special Cup Pass|)",
         "place_item": [
-            "Rainbow Road Master"
+            "Gold Trophy"
         ]
     },
     {
         "name": "Rainbow Road - Bonus",
         "category": [
-            "Special Cup"
+            "Special Cup",
+            "Base Game"
         ],
         "requires": "(|Special Cup Pass|)"
     },
     {
         "name": "Moo Moo Meadows (Wii) - Reward",
         "category": [
-            "Shell Cup"
+            "Shell Cup",
+            "Base Game"
         ],
         "requires": "(|Shell Cup Pass|)"
     },
     {
         "name": "Moo Moo Meadows (Wii) - Bonus",
         "category": [
-            "Shell Cup"
+            "Shell Cup",
+            "Base Game"
         ],
         "requires": "(|Shell Cup Pass|)"
     },
     {
         "name": "Mario Circuit (GBA) - Reward",
         "category": [
-            "Shell Cup"
+            "Shell Cup",
+            "Base Game"
         ],
         "requires": "(|Shell Cup Pass|)"
     },
     {
         "name": "Mario Circuit (GBA) - Bonus",
         "category": [
-            "Shell Cup"
+            "Shell Cup",
+            "Base Game"
         ],
         "requires": "(|Shell Cup Pass|)"
     },
     {
         "name": "Cheep Cheep Beach (DS) - Reward",
         "category": [
-            "Shell Cup"
+            "Shell Cup",
+            "Base Game"
         ],
         "requires": "(|Shell Cup Pass|)"
     },
     {
         "name": "Cheep Cheep Beach (DS) - Bonus",
         "category": [
-            "Shell Cup"
+            "Shell Cup",
+            "Base Game"
         ],
         "requires": "(|Shell Cup Pass|)"
     },
     {
         "name": "Toad's Turnpike (N64) - Reward",
         "category": [
-            "Shell Cup"
+            "Shell Cup",
+            "Base Game"
         ],
         "requires": "(|Shell Cup Pass|)"
     },
     {
         "name": "Toad's Turnpike (N64) - Bonus",
         "category": [
-            "Shell Cup"
+            "Shell Cup",
+            "Base Game"
         ],
         "requires": "(|Shell Cup Pass|)"
     },
     {
         "name": "Dry Dry Desert (GCN) - Reward",
         "category": [
-            "Banana Cup"
+            "Banana Cup",
+            "Base Game"
         ],
         "requires": "(|Banana Cup Pass|)"
     },
     {
         "name": "Dry Dry Desert (GCN) - Bonus",
         "category": [
-            "Banana Cup"
+            "Banana Cup",
+            "Base Game"
         ],
         "requires": "(|Banana Cup Pass|)"
     },
     {
         "name": "Donut Plains 3 (SNES) - Reward",
         "category": [
-            "Banana Cup"
+            "Banana Cup",
+            "Base Game"
         ],
         "requires": "(|Banana Cup Pass|)"
     },
     {
         "name": "Donut Plains 3 (SNES) - Bonus",
         "category": [
-            "Banana Cup"
+            "Banana Cup",
+            "Base Game"
         ],
         "requires": "(|Banana Cup Pass|)"
     },
     {
         "name": "Royal Raceway (N64) - Reward",
         "category": [
-            "Banana Cup"
+            "Banana Cup",
+            "Base Game"
         ],
         "requires": "(|Banana Cup Pass|)"
     },
     {
         "name": "Royal Raceway (N64) - Bonus",
         "category": [
-            "Banana Cup"
+            "Banana Cup",
+            "Base Game"
         ],
         "requires": "(|Banana Cup Pass|)"
     },
     {
         "name": "DK Jungle (3DS) - Reward",
         "category": [
-            "Banana Cup"
+            "Banana Cup",
+            "Base Game"
         ],
         "requires": "(|Banana Cup Pass|)"
     },
     {
         "name": "DK Jungle (3DS) - Bonus",
         "category": [
-            "Banana Cup"
+            "Banana Cup",
+            "Base Game"
         ],
         "requires": "(|Banana Cup Pass|)"
     },
     {
         "name": "Wario Stadium (DS) - Reward",
         "category": [
-            "Leaf Cup"
+            "Leaf Cup",
+            "Base Game"
         ],
         "requires": "(|Leaf Cup Pass|)"
     },
     {
         "name": "Wario Stadium (DS) - Bonus",
         "category": [
-            "Leaf Cup"
+            "Leaf Cup",
+            "Base Game"
         ],
         "requires": "(|Leaf Cup Pass|)"
     },
     {
         "name": "Sherbet Land (GCN) - Reward",
         "category": [
-            "Leaf Cup"
+            "Leaf Cup",
+            "Base Game"
         ],
         "requires": "(|Leaf Cup Pass|)"
     },
     {
         "name": "Sherbet Land (GCN) - Bonus",
         "category": [
-            "Leaf Cup"
+            "Leaf Cup",
+            "Base Game"
         ],
         "requires": "(|Leaf Cup Pass|)"
     },
     {
         "name": "Music Park (3DS) - Reward",
         "category": [
-            "Leaf Cup"
+            "Leaf Cup",
+            "Base Game"
         ],
         "requires": "(|Leaf Cup Pass|)"
     },
     {
         "name": "Music Park (3DS) - Bonus",
         "category": [
-            "Leaf Cup"
+            "Leaf Cup",
+            "Base Game"
         ],
         "requires": "(|Leaf Cup Pass|)"
     },
     {
         "name": "Yoshi Valley (N64) - Reward",
         "category": [
-            "Leaf Cup"
+            "Leaf Cup",
+            "Base Game"
         ],
         "requires": "(|Leaf Cup Pass|)"
     },
     {
         "name": "Yoshi Valley (N64) - Bonus",
         "category": [
-            "Leaf Cup"
+            "Leaf Cup",
+            "Base Game"
         ],
         "requires": "(|Leaf Cup Pass|)"
     },
     {
         "name": "Tick-Tock Clock (DS) - Reward",
         "category": [
-            "Lightning Cup"
+            "Lightning Cup",
+            "Base Game"
         ],
         "requires": "(|Lightning Cup Pass|)"
     },
     {
         "name": "Tick-Tock Clock (DS) - Bonus",
         "category": [
-            "Lightning Cup"
+            "Lightning Cup",
+            "Base Game"
         ],
         "requires": "(|Lightning Cup Pass|)"
     },
     {
         "name": "Piranha Plant Slide (3DS) - Reward",
         "category": [
-            "Lightning Cup"
+            "Lightning Cup",
+            "Base Game"
         ],
         "requires": "(|Lightning Cup Pass|)"
     },
     {
         "name": "Piranha Plant Slide (3DS) - Bonus",
         "category": [
-            "Lightning Cup"
+            "Lightning Cup",
+            "Base Game"
         ],
         "requires": "(|Lightning Cup Pass|)"
     },
     {
         "name": "Grumble Volcano (Wii) - Reward",
         "category": [
-            "Lightning Cup"
+            "Lightning Cup",
+            "Base Game"
         ],
         "requires": "(|Lightning Cup Pass|)"
     },
     {
         "name": "Grumble Volcano (Wii) - Bonus",
         "category": [
-            "Lightning Cup"
+            "Lightning Cup",
+            "Base Game"
         ],
         "requires": "(|Lightning Cup Pass|)"
     },
     {
         "name": "Rainbow Road (N64) - Reward",
         "category": [
-            "Lightning Cup"
+            "Lightning Cup",
+            "Base Game"
         ],
         "requires": "(|Lightning Cup Pass|)",
         "place_item": [
-            "Rainbow Road Master"
+            "Gold Trophy"
         ]
     },
     {
         "name": "Rainbow Road (N64) - Bonus",
         "category": [
-            "Lightning Cup"
+            "Lightning Cup",
+            "Base Game"
         ],
         "requires": "(|Lightning Cup Pass|)"
     },
     {
         "name": "Yoshi Circuit (GCN) - Reward",
         "category": [
-            "Egg Cup"
+            "Egg Cup",
+            "Base Game"
         ],
         "requires": "(|Egg Cup Pass|)"
     },
     {
         "name": "Yoshi Circuit (GCN) - Bonus",
         "category": [
-            "Egg Cup"
+            "Egg Cup",
+            "Base Game"
         ],
         "requires": "(|Egg Cup Pass|)"
     },
     {
         "name": "Excitebike Arena - Reward",
         "category": [
-            "Egg Cup"
+            "Egg Cup",
+            "Base Game"
         ],
         "requires": "(|Egg Cup Pass|)"
     },
     {
         "name": "Excitebike Arena - Bonus",
         "category": [
-            "Egg Cup"
+            "Egg Cup",
+            "Base Game"
         ],
         "requires": "(|Egg Cup Pass|)"
     },
     {
         "name": "Dragon Driftway - Reward",
         "category": [
-            "Egg Cup"
+            "Egg Cup",
+            "Base Game"
         ],
         "requires": "(|Egg Cup Pass|)"
     },
     {
         "name": "Dragon Driftway - Bonus",
         "category": [
-            "Egg Cup"
+            "Egg Cup",
+            "Base Game"
         ],
         "requires": "(|Egg Cup Pass|)"
     },
     {
         "name": "Mute City - Reward",
         "category": [
-            "Egg Cup"
+            "Egg Cup",
+            "Base Game"
         ],
         "requires": "(|Egg Cup Pass|)"
     },
     {
         "name": "Mute City - Bonus",
         "category": [
-            "Egg Cup"
+            "Egg Cup",
+            "Base Game"
         ],
         "requires": "(|Egg Cup Pass|)"
     },
     {
         "name": "Baby Park (GCN) - Reward",
         "category": [
-            "Crossing Cup"
+            "Crossing Cup",
+            "Base Game"
         ],
         "requires": "(|Crossing Cup Pass|)"
     },
     {
         "name": "Baby Park (GCN) - Bonus",
         "category": [
-            "Crossing Cup"
+            "Crossing Cup",
+            "Base Game"
         ],
         "requires": "(|Crossing Cup Pass|)"
     },
     {
         "name": "Cheese Land (GBA) - Reward",
         "category": [
-            "Crossing Cup"
+            "Crossing Cup",
+            "Base Game"
         ],
         "requires": "(|Crossing Cup Pass|)"
     },
     {
         "name": "Cheese Land (GBA) - Bonus",
         "category": [
-            "Crossing Cup"
+            "Crossing Cup",
+            "Base Game"
         ],
         "requires": "(|Crossing Cup Pass|)"
     },
     {
         "name": "Wild Woods - Reward",
         "category": [
-            "Crossing Cup"
+            "Crossing Cup",
+            "Base Game"
         ],
         "requires": "(|Crossing Cup Pass|)"
     },
     {
         "name": "Wild Woods - Bonus",
         "category": [
-            "Crossing Cup"
+            "Crossing Cup",
+            "Base Game"
         ],
         "requires": "(|Crossing Cup Pass|)"
     },
     {
         "name": "Animal Crossing - Reward",
         "category": [
-            "Crossing Cup"
+            "Crossing Cup",
+            "Base Game"
         ],
         "requires": "(|Crossing Cup Pass|)"
     },
     {
         "name": "Animal Crossing - Bonus",
         "category": [
-            "Crossing Cup"
+            "Crossing Cup",
+            "Base Game"
         ],
         "requires": "(|Crossing Cup Pass|)"
     },
     {
         "name": "Wario's Gold Mine (Wii) - Reward",
         "category": [
-            "Triforce Cup"
+            "Triforce Cup",
+            "Base Game"
         ],
         "requires": "(|Triforce Cup Pass|)"
     },
     {
         "name": "Wario's Gold Mine (Wii) - Bonus",
         "category": [
-            "Triforce Cup"
+            "Triforce Cup",
+            "Base Game"
         ],
         "requires": "(|Triforce Cup Pass|)"
     },
     {
         "name": "Rainbow Road (SNES) - Reward",
         "category": [
-            "Triforce Cup"
+            "Triforce Cup",
+            "Base Game"
         ],
         "requires": "(|Triforce Cup Pass|)",
         "place_item": [
-            "Rainbow Road Master"
+            "Gold Trophy"
         ]
     },
     {
         "name": "Rainbow Road (SNES) - Bonus",
         "category": [
-            "Triforce Cup"
+            "Triforce Cup",
+            "Base Game"
         ],
         "requires": "(|Triforce Cup Pass|)"
     },
     {
         "name": "Ice Ice Outpost - Reward",
         "category": [
-            "Triforce Cup"
+            "Triforce Cup",
+            "Base Game"
         ],
         "requires": "(|Triforce Cup Pass|)"
     },
     {
         "name": "Ice Ice Outpost - Bonus",
         "category": [
-            "Triforce Cup"
+            "Triforce Cup",
+            "Base Game"
         ],
         "requires": "(|Triforce Cup Pass|)"
     },
     {
         "name": "Hyrule Circuit - Reward",
         "category": [
-            "Triforce Cup"
+            "Triforce Cup",
+            "Base Game"
         ],
         "requires": "(|Triforce Cup Pass|)"
     },
     {
         "name": "Hyrule Circuit - Bonus",
         "category": [
-            "Triforce Cup"
+            "Triforce Cup",
+            "Base Game"
         ],
         "requires": "(|Triforce Cup Pass|)"
     },
     {
         "name": "Neo Bowser City (3DS) - Reward",
         "category": [
-            "Bell Cup"
+            "Bell Cup",
+            "Base Game"
         ],
         "requires": "(|Bell Cup Pass|)"
     },
     {
         "name": "Neo Bowser City (3DS) - Bonus",
         "category": [
-            "Bell Cup"
+            "Bell Cup",
+            "Base Game"
         ],
         "requires": "(|Bell Cup Pass|)"
     },
     {
         "name": "Ribbon Road (GBA) - Reward",
         "category": [
-            "Bell Cup"
+            "Bell Cup",
+            "Base Game"
         ],
         "requires": "(|Bell Cup Pass|)"
     },
     {
         "name": "Ribbon Road (GBA) - Bonus",
         "category": [
-            "Bell Cup"
+            "Bell Cup",
+            "Base Game"
         ],
         "requires": "(|Bell Cup Pass|)"
     },
     {
         "name": "Super Bell Subway - Reward",
         "category": [
-            "Bell Cup"
+            "Bell Cup",
+            "Base Game"
         ],
         "requires": "(|Bell Cup Pass|)"
     },
     {
         "name": "Super Bell Subway - Bonus",
         "category": [
-            "Bell Cup"
+            "Bell Cup",
+            "Base Game"
         ],
         "requires": "(|Bell Cup Pass|)"
     },
     {
         "name": "Big Blue - Reward",
         "category": [
-            "Bell Cup"
+            "Bell Cup",
+            "Base Game"
         ],
         "requires": "(|Bell Cup Pass|)"
     },
     {
         "name": "Big Blue - Bonus",
         "category": [
-            "Bell Cup"
+            "Bell Cup",
+            "Base Game"
         ],
         "requires": "(|Bell Cup Pass|)"
     },
     {
         "name": "Paris Promenade (Tour) - Reward",
         "category": [
-            "Golden Dash Cup"
+            "Golden Dash Cup",
+            "DLC"
         ],
         "requires": "(|Golden Dash Cup Pass|)"
     },
     {
         "name": "Paris Promenade (Tour) - Bonus",
         "category": [
-            "Golden Dash Cup"
+            "Golden Dash Cup",
+            "DLC"
         ],
         "requires": "(|Golden Dash Cup Pass|)"
     },
     {
         "name": "Toad Circuit (3DS) - Reward",
         "category": [
-            "Golden Dash Cup"
+            "Golden Dash Cup",
+            "DLC"
         ],
         "requires": "(|Golden Dash Cup Pass|)"
     },
     {
         "name": "Toad Circuit (3DS) - Bonus",
         "category": [
-            "Golden Dash Cup"
+            "Golden Dash Cup",
+            "DLC"
         ],
         "requires": "(|Golden Dash Cup Pass|)"
     },
     {
         "name": "Choco Mountain (N64) - Reward",
         "category": [
-            "Golden Dash Cup"
+            "Golden Dash Cup",
+            "DLC"
         ],
         "requires": "(|Golden Dash Cup Pass|)"
     },
     {
         "name": "Choco Mountain (N64) - Bonus",
         "category": [
-            "Golden Dash Cup"
+            "Golden Dash Cup",
+            "DLC"
         ],
         "requires": "(|Golden Dash Cup Pass|)"
     },
     {
         "name": "Coconut Mall (Wii) - Reward",
         "category": [
-            "Golden Dash Cup"
+            "Golden Dash Cup",
+            "DLC"
         ],
         "requires": "(|Golden Dash Cup Pass|)"
     },
     {
         "name": "Coconut Mall (Wii) - Bonus",
         "category": [
-            "Golden Dash Cup"
+            "Golden Dash Cup",
+            "DLC"
         ],
         "requires": "(|Golden Dash Cup Pass|)"
     },
     {
         "name": "Tokyo Blur (Tour) - Reward",
         "category": [
-            "Lucky Cat Cup"
+            "Lucky Cat Cup",
+            "DLC"
         ],
         "requires": "(|Lucky Cat Cup Pass|)"
     },
     {
         "name": "Tokyo Blur (Tour) - Bonus",
         "category": [
-            "Lucky Cat Cup"
+            "Lucky Cat Cup",
+            "DLC"
         ],
         "requires": "(|Lucky Cat Cup Pass|)"
     },
     {
         "name": "Shroom Ridge (DS) - Reward",
         "category": [
-            "Lucky Cat Cup"
+            "Lucky Cat Cup",
+            "DLC"
         ],
         "requires": "(|Lucky Cat Cup Pass|)"
     },
     {
         "name": "Shroom Ridge (DS) - Bonus",
         "category": [
-            "Lucky Cat Cup"
+            "Lucky Cat Cup",
+            "DLC"
         ],
         "requires": "(|Lucky Cat Cup Pass|)"
     },
     {
         "name": "Sky Garden (GBA) - Reward",
         "category": [
-            "Lucky Cat Cup"
+            "Lucky Cat Cup",
+            "DLC"
         ],
         "requires": "(|Lucky Cat Cup Pass|)"
     },
     {
         "name": "Sky Garden (GBA) - Bonus",
         "category": [
-            "Lucky Cat Cup"
+            "Lucky Cat Cup",
+            "DLC"
         ],
         "requires": "(|Lucky Cat Cup Pass|)"
     },
     {
         "name": "Ninja Hideaway - Reward",
         "category": [
-            "Lucky Cat Cup"
+            "Lucky Cat Cup",
+            "DLC"
         ],
         "requires": "(|Lucky Cat Cup Pass|)"
     },
     {
         "name": "Ninja Hideaway - Bonus",
         "category": [
-            "Lucky Cat Cup"
+            "Lucky Cat Cup",
+            "DLC"
         ],
         "requires": "(|Lucky Cat Cup Pass|)"
     },
     {
         "name": "New York Minute (Tour) - Reward",
         "category": [
-            "Turnip Cup"
+            "Turnip Cup",
+            "DLC"
         ],
         "requires": "(|Turnip Cup Pass|)"
     },
     {
         "name": "New York Minute (Tour) - Bonus",
         "category": [
-            "Turnip Cup"
+            "Turnip Cup",
+            "DLC"
         ],
         "requires": "(|Turnip Cup Pass|)"
     },
     {
         "name": "Mario Circuit 3 (SNES) - Reward",
         "category": [
-            "Turnip Cup"
+            "Turnip Cup",
+            "DLC"
         ],
         "requires": "(|Turnip Cup Pass|)"
     },
     {
         "name": "Mario Circuit 3 (SNES) - Bonus",
         "category": [
-            "Turnip Cup"
+            "Turnip Cup",
+            "DLC"
         ],
         "requires": "(|Turnip Cup Pass|)"
     },
     {
         "name": "Kalimari Desert (N64) - Reward",
         "category": [
-            "Turnip Cup"
+            "Turnip Cup",
+            "DLC"
         ],
         "requires": "(|Turnip Cup Pass|)"
     },
     {
         "name": "Kalimari Desert (N64) - Bonus",
         "category": [
-            "Turnip Cup"
+            "Turnip Cup",
+            "DLC"
         ],
         "requires": "(|Turnip Cup Pass|)"
     },
     {
         "name": "Waluigi Pinball (DS) - Reward",
         "category": [
-            "Turnip Cup"
+            "Turnip Cup",
+            "DLC"
         ],
         "requires": "(|Turnip Cup Pass|)"
     },
     {
         "name": "Waluigi Pinball (DS) - Bonus",
         "category": [
-            "Turnip Cup"
+            "Turnip Cup",
+            "DLC"
         ],
         "requires": "(|Turnip Cup Pass|)"
     },
     {
         "name": "Sydney Sprint (Tour) - Reward",
         "category": [
-            "Propeller Cup"
+            "Propeller Cup",
+            "DLC"
         ],
         "requires": "(|Propeller Cup Pass|)"
     },
     {
         "name": "Sydney Sprint (Tour) - Bonus",
         "category": [
-            "Propeller Cup"
+            "Propeller Cup",
+            "DLC"
         ],
         "requires": "(|Propeller Cup Pass|)"
     },
     {
         "name": "Snow Land (GBA) - Reward",
         "category": [
-            "Propeller Cup"
+            "Propeller Cup",
+            "DLC"
         ],
         "requires": "(|Propeller Cup Pass|)"
     },
     {
         "name": "Snow Land (GBA) - Bonus",
         "category": [
-            "Propeller Cup"
+            "Propeller Cup",
+            "DLC"
         ],
         "requires": "(|Propeller Cup Pass|)"
     },
     {
         "name": "Mushroom Gorge (Wii) - Reward",
         "category": [
-            "Propeller Cup"
+            "Propeller Cup",
+            "DLC"
         ],
         "requires": "(|Propeller Cup Pass|)"
     },
     {
         "name": "Mushroom Gorge (Wii) - Bonus",
         "category": [
-            "Propeller Cup"
+            "Propeller Cup",
+            "DLC"
         ],
         "requires": "(|Propeller Cup Pass|)"
     },
     {
         "name": "Sky-High Sundae - Reward",
         "category": [
-            "Propeller Cup"
+            "Propeller Cup",
+            "DLC"
         ],
         "requires": "(|Propeller Cup Pass|)"
     },
     {
         "name": "Sky-High Sundae - Bonus",
         "category": [
-            "Propeller Cup"
+            "Propeller Cup",
+            "DLC"
         ],
         "requires": "(|Propeller Cup Pass|)"
     },
     {
         "name": "London Loop (Tour) - Reward",
         "category": [
-            "Rock Cup"
+            "Rock Cup",
+            "DLC"
         ],
         "requires": "(|Rock Cup Pass|)"
     },
     {
         "name": "London Loop (Tour) - Bonus",
         "category": [
-            "Rock Cup"
+            "Rock Cup",
+            "DLC"
         ],
         "requires": "(|Rock Cup Pass|)"
     },
     {
         "name": "Boo Lake (GBA) - Reward",
         "category": [
-            "Rock Cup"
+            "Rock Cup",
+            "DLC"
         ],
         "requires": "(|Rock Cup Pass|)"
     },
     {
         "name": "Boo Lake (GBA) - Bonus",
         "category": [
-            "Rock Cup"
+            "Rock Cup",
+            "DLC"
         ],
         "requires": "(|Rock Cup Pass|)"
     },
     {
         "name": "Rock Rock Mountain (3DS) - Reward",
         "category": [
-            "Rock Cup"
+            "Rock Cup",
+            "DLC"
         ],
         "requires": "(|Rock Cup Pass|)"
     },
     {
         "name": "Rock Rock Mountain (3DS) - Bonus",
         "category": [
-            "Rock Cup"
+            "Rock Cup",
+            "DLC"
         ],
         "requires": "(|Rock Cup Pass|)"
     },
     {
         "name": "Maple Treeway (Wii) - Reward",
         "category": [
-            "Rock Cup"
+            "Rock Cup",
+            "DLC"
         ],
         "requires": "(|Rock Cup Pass|)"
     },
     {
         "name": "Maple Treeway (Wii) - Bonus",
         "category": [
-            "Rock Cup"
+            "Rock Cup",
+            "DLC"
         ],
         "requires": "(|Rock Cup Pass|)"
     },
     {
         "name": "Belin Byways (Tour) - Reward",
         "category": [
-            "Moon Cup"
+            "Moon Cup",
+            "DLC"
         ],
         "requires": "(|Moon Cup Pass|)"
     },
     {
         "name": "Belin Byways (Tour) - Bonus",
         "category": [
-            "Moon Cup"
+            "Moon Cup",
+            "DLC"
         ],
         "requires": "(|Moon Cup Pass|)"
     },
     {
         "name": "Peach Gardens (DS) - Reward",
         "category": [
-            "Moon Cup"
+            "Moon Cup",
+            "DLC"
         ],
         "requires": "(|Moon Cup Pass|)"
     },
     {
         "name": "Peach Gardens (DS) - Bonus",
         "category": [
-            "Moon Cup"
+            "Moon Cup",
+            "DLC"
         ],
         "requires": "(|Moon Cup Pass|)"
     },
     {
         "name": "Merry Mountain - Reward",
         "category": [
-            "Moon Cup"
+            "Moon Cup",
+            "DLC"
         ],
         "requires": "(|Moon Cup Pass|)"
     },
     {
         "name": "Merry Mountain - Bonus",
         "category": [
-            "Moon Cup"
+            "Moon Cup",
+            "DLC"
         ],
         "requires": "(|Moon Cup Pass|)"
     },
     {
         "name": "Rainbow Road (3DS) - Reward",
         "category": [
-            "Moon Cup"
+            "Moon Cup",
+            "DLC"
         ],
         "requires": "(|Moon Cup Pass|)",
         "place_item": [
-            "Rainbow Road Master"
+            "Gold Trophy"
         ]
     },
     {
         "name": "Rainbow Road (3DS) - Bonus",
         "category": [
-            "Moon Cup"
+            "Moon Cup",
+            "DLC"
         ],
         "requires": "(|Moon Cup Pass|)"
     },
     {
         "name": "Amsterdam Drift (Tour) - Reward",
         "category": [
-            "Fruit Cup"
+            "Fruit Cup",
+            "DLC"
         ],
         "requires": "(|Fruit Cup Pass|)"
     },
     {
         "name": "Amsterdam Drift (Tour) - Bonus",
         "category": [
-            "Fruit Cup"
+            "Fruit Cup",
+            "DLC"
         ],
         "requires": "(|Fruit Cup Pass|)"
     },
     {
         "name": "Riverside Park (GBA) - Reward",
         "category": [
-            "Fruit Cup"
+            "Fruit Cup",
+            "DLC"
         ],
         "requires": "(|Fruit Cup Pass|)"
     },
     {
         "name": "Riverside Park (GBA) - Bonus",
         "category": [
-            "Fruit Cup"
+            "Fruit Cup",
+            "DLC"
         ],
         "requires": "(|Fruit Cup Pass|)"
     },
     {
         "name": "DK Summit (Wii) - Reward",
         "category": [
-            "Fruit Cup"
+            "Fruit Cup",
+            "DLC"
         ],
         "requires": "(|Fruit Cup Pass|)"
     },
     {
         "name": "DK Summit (Wii) - Bonus",
         "category": [
-            "Fruit Cup"
+            "Fruit Cup",
+            "DLC"
         ],
         "requires": "(|Fruit Cup Pass|)"
     },
     {
         "name": "Yoshi's Island - Reward",
         "category": [
-            "Fruit Cup"
+            "Fruit Cup",
+            "DLC"
         ],
         "requires": "(|Fruit Cup Pass|)"
     },
     {
         "name": "Yoshi's Island - Bonus",
         "category": [
-            "Fruit Cup"
+            "Fruit Cup",
+            "DLC"
         ],
         "requires": "(|Fruit Cup Pass|)"
     },
     {
         "name": "Bangkok Rush (Tour) - Reward",
         "category": [
-            "Boomerang Cup"
+            "Boomerang Cup",
+            "DLC"
         ],
         "requires": "(|Boomerang Cup Pass|)"
     },
     {
         "name": "Bangkok Rush (Tour) - Bonus",
         "category": [
-            "Boomerang Cup"
+            "Boomerang Cup",
+            "DLC"
         ],
         "requires": "(|Boomerang Cup Pass|)"
     },
     {
         "name": "Mario Circuit (DS) - Reward",
         "category": [
-            "Boomerang Cup"
+            "Boomerang Cup",
+            "DLC"
         ],
         "requires": "(|Boomerang Cup Pass|)"
     },
     {
         "name": "Mario Circuit (DS) - Bonus",
         "category": [
-            "Boomerang Cup"
+            "Boomerang Cup",
+            "DLC"
         ],
         "requires": "(|Boomerang Cup Pass|)"
     },
     {
         "name": "Waluigi Stadium (GCN) - Reward",
         "category": [
-            "Boomerang Cup"
+            "Boomerang Cup",
+            "DLC"
         ],
         "requires": "(|Boomerang Cup Pass|)"
     },
     {
         "name": "Waluigi Stadium (GCN) - Bonus",
         "category": [
-            "Boomerang Cup"
+            "Boomerang Cup",
+            "DLC"
         ],
         "requires": "(|Boomerang Cup Pass|)"
     },
     {
         "name": "Singapore Speedway (Tour) - Reward",
         "category": [
-            "Boomerang Cup"
+            "Boomerang Cup",
+            "DLC"
         ],
         "requires": "(|Boomerang Cup Pass|)"
     },
     {
         "name": "Singapore Speedway (Tour) - Bonus",
         "category": [
-            "Boomerang Cup"
+            "Boomerang Cup",
+            "DLC"
         ],
         "requires": "(|Boomerang Cup Pass|)"
     },
     {
         "name": "Athens Dash (Tour) - Reward",
         "category": [
-            "Feather Cup"
+            "Feather Cup",
+            "DLC"
         ],
         "requires": "(|Feather Cup Pass|)"
     },
     {
         "name": "Athens Dash (Tour) - Bonus",
         "category": [
-            "Feather Cup"
+            "Feather Cup",
+            "DLC"
         ],
         "requires": "(|Feather Cup Pass|)"
     },
     {
         "name": "Daisy Cruiser (GCN) - Reward",
         "category": [
-            "Feather Cup"
+            "Feather Cup",
+            "DLC"
         ],
         "requires": "(|Feather Cup Pass|)"
     },
     {
         "name": "Daisy Cruiser (GCN) - Bonus",
         "category": [
-            "Feather Cup"
+            "Feather Cup",
+            "DLC"
         ],
         "requires": "(|Feather Cup Pass|)"
     },
     {
         "name": "Moonview Highway (Wii) - Reward",
         "category": [
-            "Feather Cup"
+            "Feather Cup",
+            "DLC"
         ],
         "requires": "(|Feather Cup Pass|)"
     },
     {
         "name": "Moonview Highway (Wii) - Bonus",
         "category": [
-            "Feather Cup"
+            "Feather Cup",
+            "DLC"
         ],
         "requires": "(|Feather Cup Pass|)"
     },
     {
         "name": "Squeaky Clean Sprint - Reward",
         "category": [
-            "Feather Cup"
+            "Feather Cup",
+            "DLC"
         ],
         "requires": "(|Feather Cup Pass|)"
     },
     {
         "name": "Squeaky Clean Sprint - Bonus",
         "category": [
-            "Feather Cup"
+            "Feather Cup",
+            "DLC"
         ],
         "requires": "(|Feather Cup Pass|)"
     },
     {
         "name": "Los Angeles Laps (Tour) - Reward",
         "category": [
-            "Cherry Cup"
+            "Cherry Cup",
+            "DLC"
         ],
         "requires": "(|Cherry Cup Pass|)"
     },
     {
         "name": "Los Angeles Laps (Tour) - Bonus",
         "category": [
-            "Cherry Cup"
+            "Cherry Cup",
+            "DLC"
         ],
         "requires": "(|Cherry Cup Pass|)"
     },
     {
         "name": "Sunset Wilds (GBA) - Reward",
         "category": [
-            "Cherry Cup"
+            "Cherry Cup",
+            "DLC"
         ],
         "requires": "(|Cherry Cup Pass|)"
     },
     {
         "name": "Sunset Wilds (GBA) - Bonus",
         "category": [
-            "Cherry Cup"
+            "Cherry Cup",
+            "DLC"
         ],
         "requires": "(|Cherry Cup Pass|)"
     },
     {
         "name": "Koopa Cape (Wii) - Reward",
         "category": [
-            "Cherry Cup"
+            "Cherry Cup",
+            "DLC"
         ],
         "requires": "(|Cherry Cup Pass|)"
     },
     {
         "name": "Koopa Cape (Wii) - Bonus",
         "category": [
-            "Cherry Cup"
+            "Cherry Cup",
+            "DLC"
         ],
         "requires": "(|Cherry Cup Pass|)"
     },
     {
         "name": "Vancouver Velocity (Tour) - Reward",
         "category": [
-            "Cherry Cup"
+            "Cherry Cup",
+            "DLC"
         ],
         "requires": "(|Cherry Cup Pass|)"
     },
     {
         "name": "Vancouver Velocity (Tour) - Bonus",
         "category": [
-            "Cherry Cup"
+            "Cherry Cup",
+            "DLC"
         ],
         "requires": "(|Cherry Cup Pass|)"
     },
     {
         "name": "Rome Avanti (Tour) - Reward",
         "category": [
-            "Acorn Cup"
+            "Acorn Cup",
+            "DLC"
         ],
         "requires": "(|Acorn Cup Pass|)"
     },
     {
         "name": "Rome Avanti (Tour) - Bonus",
         "category": [
-            "Acorn Cup"
+            "Acorn Cup",
+            "DLC"
         ],
         "requires": "(|Acorn Cup Pass|)"
     },
     {
         "name": "DK Mountain (GCN) - Reward",
         "category": [
-            "Acorn Cup"
+            "Acorn Cup",
+            "DLC"
         ],
         "requires": "(|Acorn Cup Pass|)"
     },
     {
         "name": "DK Mountain (GCN) - Bonus",
         "category": [
-            "Acorn Cup"
+            "Acorn Cup",
+            "DLC"
         ],
         "requires": "(|Acorn Cup Pass|)"
     },
     {
         "name": "Daisy Circuit (Wii) - Reward",
         "category": [
-            "Acorn Cup"
+            "Acorn Cup",
+            "DLC"
         ],
         "requires": "(|Acorn Cup Pass|)"
     },
     {
         "name": "Daisy Circuit (Wii) - Bonus",
         "category": [
-            "Acorn Cup"
+            "Acorn Cup",
+            "DLC"
         ],
         "requires": "(|Acorn Cup Pass|)"
     },
     {
         "name": "Piranha Plant Cove - Reward",
         "category": [
-            "Acorn Cup"
+            "Acorn Cup",
+            "DLC"
         ],
         "requires": "(|Acorn Cup Pass|)"
     },
     {
         "name": "Piranha Plant Cove - Bonus",
         "category": [
-            "Acorn Cup"
+            "Acorn Cup",
+            "DLC"
         ],
         "requires": "(|Acorn Cup Pass|)"
     },
     {
         "name": "Madrid Drive (Tour) - Reward",
         "category": [
-            "Spiny Cup"
+            "Spiny Cup",
+            "DLC"
         ],
         "requires": "(|Spiny Cup Pass|)"
     },
     {
         "name": "Madrid Drive (Tour) - Bonus",
         "category": [
-            "Spiny Cup"
+            "Spiny Cup",
+            "DLC"
         ],
         "requires": "(|Spiny Cup Pass|)"
     },
     {
         "name": "Rosalina's Ice World (3DS) - Reward",
         "category": [
-            "Spiny Cup"
+            "Spiny Cup",
+            "DLC"
         ],
         "requires": "(|Spiny Cup Pass|)"
     },
     {
         "name": "Rosalina's Ice World (3DS) - Bonus",
         "category": [
-            "Spiny Cup"
+            "Spiny Cup",
+            "DLC"
         ],
         "requires": "(|Spiny Cup Pass|)"
     },
     {
         "name": "Bowser Castle 3 (SNES) - Reward",
         "category": [
-            "Spiny Cup"
+            "Spiny Cup",
+            "DLC"
         ],
         "requires": "(|Spiny Cup Pass|)"
     },
     {
         "name": "Bowser Castle 3 (SNES) - Bonus",
         "category": [
-            "Spiny Cup"
+            "Spiny Cup",
+            "DLC"
         ],
         "requires": "(|Spiny Cup Pass|)"
     },
     {
         "name": "Rainbow Road (Wii) - Reward",
         "category": [
-            "Spiny Cup"
-        ],
-        "requires": "(|Spiny Cup Pass|)",
-        "place_item": [
-            "Rainbow Road Master"
-        ]
-    },
-    {
-        "name": "Rainbow Road (Wii) - Bonus",
-        "category": [
-            "Spiny Cup"
+            "Spiny Cup",
+            "DLC"
         ],
         "requires": "(|Spiny Cup Pass|)"
     },
     {
-        "name": "Rainbow Road Master",
+        "name": "Rainbow Road (Wii) - Bonus",
+        "category": [
+            "Spiny Cup",
+            "DLC"
+        ],
+        "requires": "(|Spiny Cup Pass|)",
+        "place_item": [
+            "Gold Trophy"
+        ]
+    },
+    {
+        "name": "Rainbow Road Racer",
         "category": [
             "0 - Victory"
         ],
