@@ -3,10 +3,14 @@ import os
 import json
 from typing import Callable, Optional
 
+<<<<<<< HEAD
 from worlds.generic.Rules import forbid_items_for_player
 from worlds.LauncherComponents import Component, SuffixIdentifier, components, Type, launch_subprocess
 
 from .Data import item_table, progressive_item_table, location_table, region_table, category_table
+=======
+from .Data import item_table, progressive_item_table, location_table, region_table
+>>>>>>> 1e94e42544cf18eae971edbcee59055d6ee16385
 from .Game import game_name, filler_item_name, starting_items
 from .Locations import location_id_to_name, location_name_to_id, location_name_to_location, location_name_groups
 from .Items import item_id_to_name, item_name_to_id, item_name_to_item, advancement_item_names, item_name_groups
@@ -342,7 +346,10 @@ class ManualWorld(World):
             'locations': self.location_name_to_location,
             # todo: extract connections out of mutliworld.get_regions() instead, in case hooks have modified the regions.
             'regions': region_table,
+<<<<<<< HEAD
             'categories': category_table,
+=======
+>>>>>>> 1e94e42544cf18eae971edbcee59055d6ee16385
 
         }
 
@@ -352,6 +359,7 @@ class ManualWorld(World):
         with open(os.path.join(output_directory, filename), 'wb') as f:
             f.write(b64encode(bytes(json.dumps(data), 'utf-8')))
 
+<<<<<<< HEAD
 
 def launch_client(*args):
     from .ManualClient import launch as Main
@@ -376,3 +384,5 @@ def add_client_to_launcher() -> None:
         components.append(VersionedComponent("Manual Client", "ManualClient", func=launch_client, version=version, file_identifier=SuffixIdentifier('.apmanual')))
 
 add_client_to_launcher()
+=======
+>>>>>>> 1e94e42544cf18eae971edbcee59055d6ee16385

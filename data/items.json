@@ -561,6 +561,38 @@
     },
     {
         "count": 1,
+        "name": "Peachette",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Diddy Kong",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Funky Kong",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
+        "name": "Pauline",
+        "category": [
+            "Characters"
+        ],
+        "useful": true
+    },
+    {
+        "count": 1,
         "name": "Mii",
         "category": [
             "Characters"
