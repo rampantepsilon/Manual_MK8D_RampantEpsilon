@@ -30,7 +30,7 @@ NOTE: It should be possible to generate seeds with just base game or just DLC by
 
 ## Goal
 
-Complete all four Rainbow Road tracks. (SNES, N64, 3DS, WiiU)
+Collect 5 Gold Trophies.
 
 ## Randomized
 
