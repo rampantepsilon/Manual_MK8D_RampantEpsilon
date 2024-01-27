@@ -10,11 +10,19 @@ To Use:
 
 ```
 Manual_MK8D_RampantEpsilon:
-  progression_balancing: 50
-  accessibility: items
+    progression_balancing: 50
+    accessibility: items
+    
+    # Change if you don't want base tracks or DLC tracks #
+    include_base_game: true
+    include_DLC: true
+
+    # Change if you want the game to be completable by other games #
+    ## NOTE: Removing local_items could make your game beatable without ever playing it! ##
+    local_items: Gold Trophy
 
 game: Manual_MK8D_RampantEpsilon
-name: RampantEpsilon
+name: Player
 ```
 
 Generate & Enjoy
