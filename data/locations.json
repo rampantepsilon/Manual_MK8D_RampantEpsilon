@@ -365,10 +365,7 @@
             "Special Cup",
             "Base Game"
         ],
-        "requires": "(|Special Cup Pass|)",
-        "place_item": [
-            "Gold Trophy"
-        ]
+        "requires": "(|Special Cup Pass|)"
     },
     {
         "name": "Rainbow Road - Bonus",
@@ -624,10 +621,7 @@
             "Lightning Cup",
             "Base Game"
         ],
-        "requires": "(|Lightning Cup Pass|)",
-        "place_item": [
-            "Gold Trophy"
-        ]
+        "requires": "(|Lightning Cup Pass|)"
     },
     {
         "name": "Rainbow Road (N64) - Bonus",
@@ -787,10 +781,7 @@
             "Triforce Cup",
             "Base Game"
         ],
-        "requires": "(|Triforce Cup Pass|)",
-        "place_item": [
-            "Gold Trophy"
-        ]
+        "requires": "(|Triforce Cup Pass|)"
     },
     {
         "name": "Rainbow Road (SNES) - Bonus",
@@ -1270,10 +1261,7 @@
             "Moon Cup",
             "DLC"
         ],
-        "requires": "(|Moon Cup Pass|)",
-        "place_item": [
-            "Gold Trophy"
-        ]
+        "requires": "(|Moon Cup Pass|)"
     },
     {
         "name": "Rainbow Road (3DS) - Bonus",
@@ -1665,10 +1653,7 @@
             "Spiny Cup",
             "DLC"
         ],
-        "requires": "(|Spiny Cup Pass|)",
-        "place_item": [
-            "Gold Trophy"
-        ]
+        "requires": "(|Spiny Cup Pass|)"
     },
     {
         "name": "Rainbow Road Racer",
