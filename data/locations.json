@@ -122,8 +122,8 @@
     {
         "name": "Mario Kart Stadium - Reward",
         "category": [
-            "Mushroom Cup",
-            "Base Game"
+            "Base Game",
+            "Mushroom Cup"
         ],
         "requires": "(|Mushroom Cup Pass|)"
     },
@@ -890,8 +890,8 @@
     {
         "name": "Paris Promenade (Tour) - Reward",
         "category": [
-            "Golden Dash Cup",
-            "DLC"
+            "DLC",
+            "Golden Dash Cup"
         ],
         "requires": "(|Golden Dash Cup Pass|)"
     },
